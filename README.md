@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @Michael
+- 👀 I’m a developer (in training), a gamer and a basketball player (also in training)
+- 🌱 I’m currently learning REACT
+- 💞️ I’m looking to collaborate on websites, web apps and minor things 
+- 📫 How to reach me: send an email to michaelonyekonwu321@gmail.com 
+- 😄 Pronouns: He/him I don't do that bs
+- ⚡ Fun fact: Klay Thompson the GOAT🐐
+
+- I'm still learning a lot of new things and I would like to go into backend programming.
+- I want to be agame developer but I'm learning web development as a startup
+- I'm looking forward to working with everyone and anyone on this platform 😅
